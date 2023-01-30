@@ -1,4 +1,4 @@
-# Investment Analysis and Portfolio Management course assignments
+# Investment Analysis and Portfolio Management
 The uploaded Jupyter notebooks (.ipynb files) and the data (.csv files) were part of the assignment submissions to the "Investment Analysis and Portfolio Management" course from *Fervent#LearnwithDistinction* on Udemy.
 In the course, there were 8 Assignments in total (Assignment 3 being on the website itself):
 * **Assignment 1**: Calculating a stock's 5-year price & returns and plotting them on charts
